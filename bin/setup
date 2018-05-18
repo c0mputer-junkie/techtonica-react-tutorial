@@ -1,2 +1,2 @@
 cp .sample.env .env
-yarn && cd client && yarn && cd ../ && yarn dev
+npm install && cd client && npm install && cd ../ && npm run dev
